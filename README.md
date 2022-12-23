@@ -1,6 +1,5 @@
-/*Bu yazilim mikroC PRO'da yazilmistir
-fnx03(read holding register) ve fnx10(write multiple register)
-sorgularina cevap verebilir
+/*This code used mikroC PRO.
+The code just response fnx03(read holding register) and fnx10(write multiple register)
 
 https://rapidscada.net/modbus/ModbusParser.aspx
 https://www.simplymodbus.ca/
